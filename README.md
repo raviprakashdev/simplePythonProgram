@@ -8,7 +8,9 @@ This repo contains the following files:
 - `README.md`: this file.
 - `helloworld.py`: a simple hello world program.
 - `greet.py` : a simple program that requests user name and greets them with a specfic message.
-- `spam.py`: a simple program to give spam message to anyone.
+- `spam.py`: a simple program to give spam message to anyone
+- `Quick_sort.py`: quick sort program
+
 
 To run spam.py install pyautogui
 <pre>
