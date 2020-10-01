@@ -3,6 +3,7 @@
 This repo contains the following files:
 - `Bubble Sort_2.py`: a bubble sort program
 - `BubbleSort.py`: another bubble sort program
+- `Coin_Flipper.py` : a script that takes in the number of times you want to flip the coin, and then displays the number of times we get heads-tails and the outcomes in chronological order.
 - `Merge Sort.py`: a merge sort implementation program with user-received input. 
 - `Fibonacci.py`: a program that takes number of digits given as input and generates a Fibonacci Sequence based on input.
 - `README.md`: this file
