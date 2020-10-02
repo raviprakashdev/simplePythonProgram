@@ -1,6 +1,7 @@
 def shellSort(inpList):
     
     gap = len(inpList) // 2
+
     while gap > 0:
 
         for i in range(gap, len(inpList)):
