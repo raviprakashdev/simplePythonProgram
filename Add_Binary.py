@@ -7,5 +7,6 @@ def addBinary(num1: str, num2: str) -> str:
     """
     sumnum = int(num1,2) + int(num2,2)
     print(bin(sumnum)[2:])
+    print("siva")
 
 addBinary("11", "1")
